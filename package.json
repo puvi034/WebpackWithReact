@@ -1,0 +1,28 @@
+{
+  "name": "webpack_with_react",
+  "version": "1.0.0",
+  "description": "Webpack on an ES6 React Application with SASS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puvi034/WebpackWithReact.git"
+  },
+  "keywords": [
+    "SASS",
+    "Webpack",
+    "React",
+    "ES6"
+  ],
+  "author": "Puneeth T S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puvi034/WebpackWithReact/issues"
+  },
+  "homepage": "https://github.com/puvi034/WebpackWithReact#readme",
+  "devDependencies": {
+    "webpack": "^2.6.1"
+  }
+}
